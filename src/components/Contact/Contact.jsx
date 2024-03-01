@@ -70,7 +70,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Message</span>
-                    <span className="secondaryText">honesthomes@gmail.com</span>
+                    <span className="secondaryText">honesthomes@gmail</span>
                   </div>
                 </div>
                 <div className="flexCenter button">
@@ -91,7 +91,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">E-Mail</span>
-                    <span className="secondaryText">honesthomes@gmail.com</span>
+                    <span className="secondaryText">honesthomes@gmail</span>
                   </div>
                 </div>
                 <div className="flexCenter button">
