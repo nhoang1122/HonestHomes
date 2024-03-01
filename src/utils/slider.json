@@ -1,0 +1,38 @@
+[
+    {
+      "name": "1409 Post Oak Boulevard",
+      "price": "2,450,000",
+      "detail": "Houston, TX, USA",
+      "image": "./r1.png"
+    },
+    {
+      "name": "13502 Cascade Caverns",
+      "price": "6,600,000",
+      "detail": "Los Angeles, CA, USA",
+      "image": "./r2.png"
+    },
+    {
+      "name": "1206 W 22nd",
+      "price": "2,530,000",
+      "detail": "Miami, FL, USA",
+      "image": "./r3.png"
+    },
+    {
+      "name": "6209 Westcott",
+      "price": "4,700,000",
+      "detail": "San Diego, CA, USA",
+      "image": "./r1.png"
+    },
+    {
+      "name": "8243 Thompson Lake",
+      "price": "3,200,000",
+      "detail": "Houston, TX, USA",
+      "image": "./r2.png"
+    },
+    {
+      "name": "665 Tiki Drive",
+      "price": "4,300,000",
+      "detail": "Oahu, HI, USA",
+      "image": "./r3.png"
+    }
+  ]
